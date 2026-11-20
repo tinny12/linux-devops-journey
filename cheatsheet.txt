@@ -1,0 +1,6 @@
+echo prints data, 
+cat shows what's inside,
+cp copies file,
+mv renames things ,
+but doesn't ask before overwrite so needs to use -i for question,
+rm deletes
